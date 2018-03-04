@@ -1,4 +1,4 @@
-name := "introscala"
+name := "scala-hands-on"
 
 organization := "fr.xebia.xke"
 
