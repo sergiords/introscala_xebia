@@ -3,14 +3,14 @@ How to build and run the test?
 
 ## - When you already have scala installed 
 
-The simplest way to work with the exercises is to get to SBT's REPL:
+Launch sbt:
 
-    ./activator
-    
+    sbt
+
 Once inside, In order to execute the whole test set: 
 
     > test
-    
+
 If you want to run only one test, just type this:
 
     > testOnly fr.xebia.scala.StepXXX
